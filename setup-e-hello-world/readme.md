@@ -23,4 +23,8 @@ Para criar o projeto, em seu terminal digite o seguinte comando:
 ng new hello-world
 ```
 
-O comando acima irá gerar um novo projeto com o nome hello-world, durante o processo você irá responder uma pergunta onde tem algumas opções para tipos de estilização, (eu) pessoalmente gosto scss, mas fique a vontade para escolher o que você tem mais facilidade.
+O comando acima irá gerar um novo projeto com o nome hello-world, durante o processo você irá responder uma pergunta onde tem algumas opções para tipos de estilização, (eu) pessoalmente gosto scss, mas fique a vontade para escolher o que você tem mais facilidade. Caso queira visualizar um exemplo de aplicação, dentro desse diretório você verá o modelo de nome: hello-world-angular, use o comando abaixo para rodar aplicação.
+
+```Comando-terminal
+ng serve --open
+```
